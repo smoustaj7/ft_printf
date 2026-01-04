@@ -46,5 +46,4 @@ Use of `printf` or any related standard library functions is strictly forbidden.
 
 ---
 
-## 📂 Project Structure
 
